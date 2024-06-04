@@ -23,4 +23,3 @@ Contributions:
 
 Open to contributions for refining analysis and expanding persona profiles.
 
-© 2024 Izwe Loans Kenya Limited. All rights reserved.
