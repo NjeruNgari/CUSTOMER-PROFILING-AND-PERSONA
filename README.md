@@ -23,5 +23,4 @@ Contributions:
 
 Open to contributions for refining analysis and expanding persona profiles.
 
-License:
-MIT License
+© 2024 Izwe Loans Kenya Limited. All rights reserved.
